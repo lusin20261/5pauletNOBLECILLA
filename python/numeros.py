@@ -1,0 +1,12 @@
+print("====================Hola bienvenidos a mi calculadora xd====================")
+a = input("Ingresa un primer numero bro: ")
+b = input("ingresa un segundo numero panasaurio rex: ")
+a = int(a)
+b = int(b)
+print("la multiplicacion es: ",a*b)
+print("la division es: ",a/b)
+print("la suma es",a+b)
+print("la resta es",a-b)
+print("la potencia es",a**b)
+
+print("====================Adios====================")
